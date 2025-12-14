@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ![alt text](8881426.gif)
+
+- 🌱 ***I’m currently learning cyber security, web security fundamentals***
+
+- 🤔 ***I’m looking for help with understanding cyber security fundamentals.***

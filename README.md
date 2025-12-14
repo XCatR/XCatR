@@ -17,6 +17,12 @@ Here are some ideas to get you started:
 
 ![alt text](github-header-banner.png)
 
+<br clear="both">
+
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=XCatR.XCatR&"  />
+
+###
+
 - 🌱 ***I’m currently learning cyber security, web security fundamentals***
 
 - 🤔 ***I’m looking for help with understanding cyber security fundamentals.***

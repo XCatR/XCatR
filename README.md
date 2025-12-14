@@ -15,19 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![alt text](github-header-banner.png)
-
 <br clear="both">
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=XCatR.XCatR&"  />
 
 ###
 
-- 🌱 ***I’m currently learning cyber security, web security fundamentals***
+- 🌱 **_I’m currently learning cyber security, web security fundamentals_**
 
-- 🤔 ***I’m looking for help with understanding cyber security fundamentals.***
+- 🤔 **_I’m looking for help with understanding cyber security fundamentals._**
 
-![alt text](8881426.gif)
 
 <img src="https://raw.githubusercontent.com/XCatR/XCatR/output/snake.svg" alt="Snake animation" />
 

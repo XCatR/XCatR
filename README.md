@@ -23,8 +23,6 @@ Here are some ideas to get you started:
 
 - 🌱 **_I’m currently learning cyber security, web security fundamentals_**
 
-- 🤔 **_I’m looking for help with understanding cyber security fundamentals._**
-
 
 <img src="https://raw.githubusercontent.com/XCatR/XCatR/output/snake.svg" alt="Snake animation" />
 

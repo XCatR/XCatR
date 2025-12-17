@@ -1,4 +1,3 @@
-## Hello World! 👋
 
 <!--
 **XCatR/XCatR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +18,12 @@ Here are some ideas to get you started:
 
 ![alt text](<XCatR Header (render.).png>)
 
-- 🌱 **_I’m currently learning cyber security, web security fundamentals_**
+## ✨Hi 👋. I'm XCatR! 
+
+## 👤 About Me
+
+- 🌱 I’m currently learning cyber security, web security fundamentals
+- 🔐 Interested in **ethical hacking** & **defensive security**
 
 
 ###

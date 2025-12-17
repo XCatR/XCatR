@@ -18,9 +18,7 @@ Here are some ideas to get you started:
 
 ![alt text](<XCatR Header (render.).png>)
 
-<div align="center">
-  <strong>Hi 👋, I'm XCatR</strong>
-</div> 
+## ✨Hi 👋. I'm XCatR! 
 
 ## 👤 About Me
 

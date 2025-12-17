@@ -18,12 +18,18 @@ Here are some ideas to get you started:
 
 ![alt text](<XCatR Header (render.).png>)
 
-## ✨Hi 👋. I'm XCatR! 
+<div align="center">
+  <strong>Hi 👋, I'm XCatR</strong>
+</div> 
 
 ## 👤 About Me
 
 - 🌱 I’m currently learning cyber security, web security fundamentals
 - 🔐 Interested in **ethical hacking** & **defensive security**
+
+## 📝Notes
+
+- I am still in the learning phase and continuously improving.
 
 
 ###

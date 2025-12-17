@@ -15,15 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<br clear="both">
-
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=XCatR.XCatR&"  />
-
 ###
+
+![alt text](<XCatR Header (render.).png>)
 
 - 🌱 **_I’m currently learning cyber security, web security fundamentals_**
 
-
-<img src="https://raw.githubusercontent.com/XCatR/XCatR/output/snake.svg" alt="Snake animation" />
 
 ###

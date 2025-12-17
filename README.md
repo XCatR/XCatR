@@ -23,12 +23,12 @@ Here are some ideas to get you started:
 
 ## 👤 About Me
 
-- 🌱 I’m currently learning cyber security, web security fundamentals
+- 🌱 I’m currently **learning cyber security, web security fundamentals**
 - 🔐 Interested in **ethical hacking** & **defensive security**
 
 ## 📝Notes
 
-- I am still in the learning phase and continuously improving.
+- I am still in the **learning phase and continuously improving**.
 
 ###
 <h3 align="left">Connect with me:</h3>
